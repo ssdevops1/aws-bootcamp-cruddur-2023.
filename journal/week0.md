@@ -6,13 +6,13 @@ I already have the AWS CLI installed on my windows machine.
 
 Here is proof that it works well on my machine 
 
-**Note to Insert Image**
+![Proof of Working AWS CLI](.asset/AWS_CLI_PROOF.PNG)
 
 I have also enabled AWS Billing and Budget in my aws account
 
 Here is proof of the Billing and Budget in my account
 
-**Note to Insert Image**
+![Proof of Billing And Budget in AWS Account](.asset/Billing.PNG)
 
 
 ### Homework Challenges
