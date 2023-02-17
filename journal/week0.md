@@ -14,6 +14,12 @@ Here is proof of the Billing and Budget in my account
 
 ![Proof of Billing And Budget in AWS Account](.asset/Billing.PNG)
 
+Using Lucid chart for the first time ever i was able to re-create the cruddur app logical diagram
+
+Here is my drawing. 
+
+**Note to Insert Image**
+
 
 ### Homework Challenges
 
