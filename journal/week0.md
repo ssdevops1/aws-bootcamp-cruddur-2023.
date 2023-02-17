@@ -18,8 +18,7 @@ Using Lucid chart for the first time ever i was able to re-create the cruddur ap
 
 Here is my drawing. 
 
-**Note to Insert Image**
-
+![Cruddur App Logical Diagram](.asset/Cruddur%20Logical%20Diagram%20(1).png)
 
 ### Homework Challenges
 
