@@ -27,7 +27,7 @@ Here is my drawing.
 
 Here is the link to the diagram
 
-![Cruddur Logical Diagram Recreation](https://lucid.app/lucidchart/8cc86038-5293-4962-bab6-0d06eac51087/edit?viewport_loc=-285%2C-1813%2C1914%2C858%2C0_0&invitationId=inv_b09e4649-bc23-4567-9e43-35de87c8432a)
+![Crudder App Logical Diagram Share Link](https://lucid.app/lucidchart/8cc86038-5293-4962-bab6-0d06eac51087/edit?viewport_loc=-285%2C-1813%2C1914%2C858%2C0_0&invitationId=inv_b09e4649-bc23-4567-9e43-35de87c8432a)
 
 ### Homework Challenges
 
