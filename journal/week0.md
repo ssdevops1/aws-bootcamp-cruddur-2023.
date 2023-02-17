@@ -2,14 +2,15 @@
 
 ## Homework Required
 
-**AWS CLI**
+### AWS CLI
+
 I already have the AWS CLI installed on my windows machine.
 
 Here is proof that it works well on my machine 
 
 ![Proof of Working AWS CLI](.asset/AWS_CLI_PROOF.PNG)
 
-**AWS Budget and Billing**
+### AWS Budget and Billing
 
 I have also enabled AWS Billing and Budget in my aws account
 
@@ -17,7 +18,7 @@ Here is proof of the Billing and Budget in my account
 
 ![Proof of Billing And Budget in AWS Account](.asset/Billing.PNG)
 
-**Cruddur Logical Diagram Recreation**
+## Cruddur Logical Diagram Recreation
 
 Using Lucid chart for the first time ever i was able to re-create the cruddur app logical diagram
 
