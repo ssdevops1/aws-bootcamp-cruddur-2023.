@@ -12,11 +12,17 @@ Here is proof that it works well on my machine
 
 ### AWS Budget and Billing
 
-I have also enabled AWS Billing and Budget in my aws account
+I had enabled AWS Billing and Budget in my aws account prior to this bootcamp
 
 Here is proof of the Billing and Budget in my account
 
 ![Proof of Billing And Budget in AWS Account](.asset/Billing.PNG)
+
+I put my budget limit to $10 per month
+
+Here is a screenshot to affirm that
+
+![Budget Limit Proof](.asset/My_Budget.PNG)
 
 ## Cruddur Logical Diagram Recreation
 
@@ -26,9 +32,9 @@ Here is my drawing.
 
 ![Cruddur App Logical Diagram](.asset/Cruddur%20Logical%20Diagram%20(1).png)
 
-Here is the link to the diagram
+Here is the Lucid Share Link
 
-![Cruddur Logical Diagram Link](.asset/Cruddur%20Logical%20Diagram%20(1).png)
+https://lucid.app/lucidchart/8cc86038-5293-4962-bab6-0d06eac51087/edit?invitationId=inv_27b1586d-cc8b-4a09-b76e-a5f303b2b3da
 
 ### Homework Challenges
 
