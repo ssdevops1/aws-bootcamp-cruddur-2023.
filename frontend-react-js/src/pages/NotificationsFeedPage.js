@@ -10,7 +10,7 @@ import ReplyForm from '../components/ReplyForm';
 // [TODO] Authenication
 import Cookies from 'js-cookie'
 
-export default function NotificationFeedPage() {
+export default function NotificationsFeedPage() {
   const [activities, setActivities] = React.useState([]);
   const [popped, setPopped] = React.useState(false);
   const [poppedReply, setPoppedReply] = React.useState(false);
@@ -72,7 +72,7 @@ export default function NotificationFeedPage() {
           activities={activities} 
         />
         <ActivityFeed 
-          title="HomeNotifications" 
+          title="Notifications" 
           setReplyActivity={setReplyActivity} 
           setPopped={setPoppedReply} 
           activities={activities} 
